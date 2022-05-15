@@ -1,0 +1,2 @@
+var sx = newJavaClass("com.netspace.myipad.plugins.knox.KnoxPlugin");sx.removeLimits(true);
+

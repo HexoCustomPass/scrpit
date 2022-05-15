@@ -1,0 +1,4 @@
+var lx = newJavaClass("com.netspace.myipad.plugins.lenovo.LenovoPugin");lx.removeLimits(true);
+
+
+

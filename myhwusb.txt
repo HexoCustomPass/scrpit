@@ -1,0 +1,1 @@
+var hw = newJavaClass("com.netspace.myipad.plugins.huawei.HuaWei_BZT_W09_Plugin");hw.enableUsbDebug(true);

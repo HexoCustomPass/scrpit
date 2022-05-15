@@ -1,0 +1,3 @@
+var lx = newJavaClass("com.netspace.myipad.plugins.lenovo.LenovoPugin");lx.enableUsbDebug(true);
+
+
